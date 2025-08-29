@@ -119,5 +119,5 @@ By default:
 
 ## Author
 
-Developed by Shreeja Karajagi, Nachikaet Anoop, and E. Saaruvathani
+Developed by Shreeja Karajagi, Nachikaet Anoop, and E. Saaruvathani.
 For contributions, open an issue or submit a pull request.
