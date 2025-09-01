@@ -1,5 +1,3 @@
-# collector/api_collector.py
-
 from flask import Flask, request, jsonify
 from storage import db
 from .base_collector import BaseCollector
